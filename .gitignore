@@ -16,9 +16,8 @@ npm-debug.log
 /tests/coverage
 /.nyc_output
 
-# dist
-dist
-
 # Environment variables
 .env
 .env.*
+
+/aws-sdk*
